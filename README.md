@@ -68,19 +68,11 @@ Ajuste o path conforme a estrutura do seu projeto (api-infly, api_infly, etc.).
 
 💬 Gerenciamento de leads
 
-📅 Calendário escolar
-
-🧾 Gestão de contas e negociações
-
 📊 Geração de métricas e análises
 
 🔐 Autenticação JWT
 
-🛡️ Hash seguro de senhas com Argon2
-
 🗄️ Integração com PostgreSQL via SQLAlchemy
-
-🌐 API documentada via Swagger e ReDoc
 
 👥 Integrantes da Equipe
 
